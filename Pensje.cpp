@@ -1,5 +1,5 @@
 //Zadanie Pensje XIX OI
-//Mateusz Grzelak
+
 
 #include <iostream>
 #include <algorithm>
