@@ -1,6 +1,4 @@
 //Zadanie Plakatowanie
-//Mateusz Grzelak
-
 
 #include <iostream>
 #include <stack>
